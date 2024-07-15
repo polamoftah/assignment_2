@@ -1,0 +1,17 @@
+body{
+   
+    text-align: center;
+    background-size:cover;
+    background-image: url(./realphoto.jpeg);
+}
+.section1{
+    text-align: center;
+
+  
+}
+.section2{
+    text-align: center;
+    
+    color:rgb(235, 243, 243);
+}
+
